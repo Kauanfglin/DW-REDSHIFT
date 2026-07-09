@@ -1,0 +1,1 @@
+Esse projeto foi um Data Warehouse montado na AWS. Eu subi os arquivos de dados (produtos, datas e vendas) pro S3, criei as tabelas lá no Redshift, fiz a carga desses dados do S3 pro Redshift usando o comando COPY, e depois conectei no Workbench pra rodar as consultas SQL em cima dos dados já carregados.
